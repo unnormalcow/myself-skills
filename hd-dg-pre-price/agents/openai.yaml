@@ -1,0 +1,4 @@
+interface:
+  display_name: "HD 数据治理项目前期报价"
+  short_description: "从需求清单、驻场排期到标准价与优惠价的一体化报价编制"
+  default_prompt: "使用 $hd-dg-pre-price 根据客户需求、报价模板和人员约束编制可交付的数据治理项目报价单。"

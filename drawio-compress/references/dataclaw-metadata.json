@@ -1,0 +1,5 @@
+{
+  "schema_version": 1,
+  "display_name": "Draw.io 流程图缩放",
+  "description": "等比缩放 Draw.io 流程图（.drawio）到指定比例，保持字体、端口、边样式、节点引用不变，可批量处理多个文件。"
+}
